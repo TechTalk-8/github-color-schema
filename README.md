@@ -17,5 +17,10 @@
 
 ### <span style="color:lightgreen">some of the examples of what you can make:</span>
 
-![GitHub Count and Color Schema](amount\commit2commitlg.png)
-![GitHub Count and Color Schema](amount\commit2commitlg.png)
+![GitHub pixel pix](pixel_hithub_animals_mine.png)
+![GitHub pixel pix](pixel_hithub_love_mine.png)
+![GitHub pixel pix](pixel_hithub_animals.png)
+![GitHub pixel pix](pixel_hithub_pac_man.png)
+![GitHub pixel pix](pixel_hithub_github.jpg)
+
+# <span style="color:lightgreen">Let's prettify together!!!</span>
