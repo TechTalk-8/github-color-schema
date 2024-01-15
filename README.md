@@ -1,6 +1,6 @@
 ## GitHub Commits Color Scheme: Lets commit to commit.
 
-![GitHub Count and Color Schema](amount\commit2commitlg.png)
+![GitHub Count and Color Schema](commit2commitlg.png)
 
 
 ### <span style="color:lightgreen">After spending nights searching for ways to make my GitHub commits look better, I realized I should just create my own solution.</span>
